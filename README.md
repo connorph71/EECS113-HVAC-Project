@@ -1,6 +1,6 @@
 🌡️ **EECS113-HVAC-Project** 🌡️
 
-      A real-time embedded HVAC system developed on Raspberry Pi using C and Python. Designed to monitor 
+      A real-time embedded HVAC system developed on Raspberry Pi using C and Python. Designed to monitor
       and control temperature and motion using peripheral sensors. This project was built as the final 
       solo project for EECS 113: Processor Hardware/Software Interface at UC Irvine.
 
